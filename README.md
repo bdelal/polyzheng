@@ -1,4 +1,4 @@
-# PolyZheng – ein digitales Saiteninstrument mit Arduino
+# PolyZheng ist ein digitales Saiteninstrument mit Arduino
 
 PolyZheng ist ein selbstgebautes Saiteninstrument nach dem Vorbild der chinesischen Guzheng. Sensoren erkennen, ob eine Saite berührt oder gezupft wird, und ein Arduino spielt den passenden Ton ab. Per Knopfdruck wechselt man zwischen Guzheng, Erhu und Geige, und zusätzlich spielen vier weitere Knöpfe Tiergeräusche ab, um das Spielen unterhaltsamer zu machen.
 
